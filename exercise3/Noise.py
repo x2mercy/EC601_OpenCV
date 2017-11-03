@@ -1,3 +1,4 @@
+#Copyright 2017 mengxi wang wmx@bu.edu
 import cv2
 import numpy as np
 
