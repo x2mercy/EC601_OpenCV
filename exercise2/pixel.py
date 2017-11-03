@@ -1,6 +1,4 @@
-#!/usr/bin/env python    
-# encoding: utf-8    
-  
+#Copyright 2017 mengxi wang wmx@bu.edu 
 import numpy as np  
 import cv2  
   
